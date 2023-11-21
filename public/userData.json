@@ -1,0 +1,45 @@
+{
+    "user": {
+      "fullName":"Kashish Thakur",
+      "username": "Kashish",
+      "background_url": "https://img.freepik.com/premium-photo/amazing-landscapes-view-mountain-with-gold-hour-sunrise-morning-2d-illustration_67092-2042.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699660800&semt=ais",
+      "user_image":"https://imgs.search.brave.com/dvSrzkYqQoRRi5lSaqC-GHw4HnRoX0xFqTyiii5p8Wg/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9mdW55/bGlmZS5pbi93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMy8wNC8y/MDIzMDQwNF8yMDA0/MzktMTAyNHgxMDI0/LmpwZw",
+      "followers": 6484,
+      "following": 648,
+      "bio": "Frontend Developer at Terribly Tiny Tales",
+      "insta_link": "https://github.com/kashthakur",
+      "stats": {
+        "stars": 125,
+        "likes": 12,
+        "views": "57.8k",
+        "hearts": "26.0k"
+      },
+      "posts": [
+        {
+          "title": "a changing world order",
+          "content": "The world is changing at a feverish pace. Friends, colleagues and everyone engaged in knowledge work are beginning to sense this, including ...",
+          "type":"musing",
+          "createdAt":"August 2",
+          "readAt":"2 mins",
+          "postViews":102
+        },
+        {
+            "title": "indian v/s australia",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Odio facilisis mauris sit amet. Aliquam malesuada bibendum arcu vitae....",
+            "type":"thought",
+            "createdAt":"January 21",
+            "readAt":"1 min",
+            "postViews":156
+          },
+          {
+            "title": "write to build",
+            "content": "Pellentesque elit ullamcorper dignissim cras tincidunt lobortis. At risus viverra adipiscing at in tellus integer feugiat scelerisque...",
+            "type":"thought",
+            "createdAt":"November 18",
+            "readAt":"1 min",
+            "postViews":228
+          }
+      ]
+    }
+  }
+  
